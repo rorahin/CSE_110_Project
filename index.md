@@ -8,7 +8,7 @@
 
 ### UC San Diego <sub> [address](otherText.md)
 
-### Fourth year, `computer science` '23
+### Fourth year, *computer science* '23
 <sub> this is my last year at UCSD </sub>
 
 
